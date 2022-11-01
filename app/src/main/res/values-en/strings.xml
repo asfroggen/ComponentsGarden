@@ -1,12 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ComponentsGarden</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string-array name="feelings">
-        <item>Triste</item>
-        <item>Decepcionado</item>
-        <item>Feliz</item>
-        <item>Emocionado</item>
+        <item>Sad</item>
+        <item>Disappointed</item>
+        <item>Happy</item>
+        <item>Excited</item>
     </string-array>
 </resources>
